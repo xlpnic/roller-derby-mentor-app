@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">RollerDerbyMentorMagic</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="app_title">Roller Derby Mentor Magic</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Skills</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <string name="skills_full">
+        <![CDATA[
+        <h1>Main Title</h1>
+        <h2>A sub-title</h2>
+        <p>This is some html. Look, here\'s an <u>underline</u>.</p>
+        <p>Look, this is <em>emphasized.</em> And here\'s some <b>bold</b>.</p>
+        <p>This is a UL list:
+        <ul>
+        <li>One</li>
+        <li>Two</li>
+        <li>Three</li>
+        </ul>
+        <p>This is an OL list:
+        <ol>
+        <li>One</li>
+        <li>Two</li>
+        <li>Three</li>
+        </ol>
+        ]]>
+    </string>
+</resources>
