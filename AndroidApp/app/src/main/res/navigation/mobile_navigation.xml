@@ -17,6 +17,12 @@
         android:label="@string/menu_skills"
         tools:layout="@layout/fragment_skills" />
 
+    <fragment
+        android:id="@+id/nav_about"
+        android:name="com.example.rollerderbymentormagic.ui.about.AboutFragment"
+        android:label="@string/menu_about"
+        tools:layout="@layout/fragment_about" />
+
 <!--    <fragment-->
 <!--        android:id="@+id/nav_slideshow"-->
 <!--        android:name="com.example.rollerderbymentormagic.ui.slideshow.SlideshowFragment"-->

@@ -7,3 +7,4 @@ public class SkillsViewModel extends ViewModel {
     public SkillsViewModel() {
     }
 }
+
