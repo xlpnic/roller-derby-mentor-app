@@ -17,22 +17,163 @@
 
     <string name="skills_full">
         <![CDATA[
-        <h1>Main Title</h1>
-        <h2>A sub-title</h2>
-        <p>This is some html. Look, here\'s an <u>underline</u>.</p>
-        <p>Look, this is <em>emphasized.</em> And here\'s some <b>bold</b>.</p>
-        <p>This is a UL list:
-        <ul>
-        <li>One</li>
-        <li>Two</li>
-        <li>Three</li>
-        </ul>
-        <p>This is an OL list:
-        <ol>
-        <li>One</li>
-        <li>Two</li>
-        <li>Three</li>
-        </ol>
+<h1>Minimum Skills - Requirements for Skaters</h1>
+
+<h2>1 Basic Skating Skills</h2>
+
+<h3>1.1 Skating Posture</h3>
+<p>1.1.1 Bends at knees and hips with shoulders back.</p>
+<p>1.1.2 Demonstrates stability, with center of gravity down and forward.</p>
+<p>1.1.3 Demonstrates ability to skate low with bent, flexible knees.</p>
+
+<h3>1.2 Stride</h3>
+<p>1.2.1 Uses steady, confident, fluid strides.</p>
+<p>1.2.2 Uses both feet to push forward on straightaways.</p>
+<p>1.2.3 Shifts weight completely from foot to foot without stumbling.</p>
+
+<h3>1.3 Crossovers</h3>
+<p>1.3.1 Performs smooth crossovers while skating straightaways and track turns.</p>
+<p>1.3.2 Uses both feet to push during crossovers.</p>
+<p>1.3.3 Performs reverse crossovers, crossing over the right foot to the outside of the track.</p>
+
+<h3>1.4 Speed and Endurance</h3>
+<p>1.4.1 Skates at least 27 laps around regulation track within five minutes.</p>
+<p>1.4.2 Accelerates from a standstill to complete one lap within 13 seconds.</p>
+
+<h3>1.5 Stops</h3>
+<p>Skater must come to a complete stop from a brisk pace within four seconds, using proper form and without losing balance.</p>
+<p>Each WFTDA-Member league that enters into a WFTDA-sanctioned game must designate a league member who is responsible for verifying that every skater in the game meets all of the skill requirements listed below. Passing the WFTDA Skater Rules Test is also part of the minimum skills requirement. Member leagues are responsible for determining frequency of re-assessment based on league skaters’ experience and skill level.</p>
+<p>These minimum skills are:</p>
+<ul>
+    <li>Required for charter team skaters playing WFTDA sanctioned games.</li>
+    <li>Strongly recommended for skaters playing in interleague scrimmage or games.</li>
+    <li>Strongly recommended for skaters playing in intraleague (home) scrimmages or games</li>
+    <li>Recommended for new skaters to graduate to contact drills and intraleague (home league) scrimmages.</li>
+</ul>
+
+<p>1.5.1 T-Stop
+<p>1.5.1.1 Balancing weight on one leg, other foot is turned at a 90° angle so the heel or arch of the turned foot is aligned with the heel of the other foot.</p>
+<p>1.5.1.2 Maintaining balance on one leg, applies smooth pressure with the turned foot using the two outside wheels, the two front wheels or all four wheels (does not use only the two inside wheels).</p>
+<p>1.5.2 Plow stop</p>
+<p>1.5.2.1 Turns one or both feet so toes are pointing in and heels are pointing out.</p>
+<p>1.5.2.2 Upon completion of stop, feet are in a position that would allow resumed skating (feet are not spread so wide apart skater must adjust stance before resuming skating).</p>
+
+<h3>1.6 Other Skating Skills</h3>
+<p>1.6.1 Performs one-foot glides with each foot for the length of the track turn and straightaway with good balance.</p>
+<p>1.6.1.1 In low stance with one foot completely off the floor, able to balance weight over the other foot for at least five seconds.</p>
+<p>1.6.1.2 Maintains speed sufficient to complete glide and does not flail limbs.</p>
+<p>1.6.2 Propels self while keeping all eight wheels on the floor.</p>
+<p>1.6.3 Moves easily and fluidly from one side of the track to the other.</p>
+<p>1.6.3.1 Performs smooth, quick lateral cuts, crossing the track at least four times on each straightaway and at least three times on each track turn.</p>
+<p>1.6.4 Backwards skating within track boundaries.</p>
+<p>1.6.4.1 Maintains moderate pace skating backward around the entire track.</p>
+
+<h2>2 Recovery Tactics</h2>
+
+<p>Skater must perform the following falls safely, correctly and naturally. Skaters must be able to slide into knee contact with the floor, rather than crashing onto pads. Slides should be performed from a brisk pace without using hands or flailing arms. Recovery to a normal skating pace should be smooth and immediate, unless noted otherwise.</p>
+
+<h3>2.1 Knee Taps</h3>
+<p>2.1.1 Left.</p>
+<p>2.1.2 Right.</p>
+<p>2.1.3 Performs each knee tap without coming to a complete stop.</p>
+<p>2.1.4 Taps a single knee without breaking normal skating stride.</p>
+<p>2.1.5 Recovers from knee tap without using hands to get up.</p>
+<p>2.1.6 Performs two consecutive single knee taps in stride, with low recovery.</p>
+
+<h3>2.2 Double Knee Slides</h3>
+<p>2.2.1 Knees do not make contact with ground at exact same time.</p>
+<p>2.2.2 Returns to active skating within three seconds.</p>
+<p>2.2.3 Recovers without using hands to get up.</p>
+<p>2.2.4 Momentum used to initiate the slide is continued into the recovery to normal skating motion.</p>
+
+<h2>3 Balance and Agility</h2>
+
+<p>Skater must demonstrate the ability to perform the following tasks without losing balance, stumbling or falling.</p>
+
+<h3>3.1 Standing and Stepping from a Standstill, Maintaining Control of Wheels (not rolling)</h3>
+<p>3.1.1 Forward and backward.</p>
+<p>3.1.2 Side to side in both directions.</p>
+<p>3.1.3 Grapevine (first foot side steps, second foot steps across and in front of first foot, first foot side steps, second foot steps behind and crosses first foot) to both the right and left.</p>
+<p>3.1.4 Shuffle (first foot side steps, second foot steps to meet first foot without crossing first foot, first foot immediately side steps in a hopping motion) to both the right and left.</p>
+<p>3.1.5 Quick steps (both feet rapidly alternate in small steps, only one foot is on the ground at a time) in place and to the right and left.</p>
+<p>3.1.6 Ability to balance on each foot from a stationary position at least 30 seconds.</p>
+
+<h3>3.2 Hopping</h3>
+<p>3.2.1 Hops over an object at least six inches (15 centimeters) in height without touching the object or losing balance, while skating at a moderate pace.</p>
+<p>3.2.2 Jumps with both feet simultaneously, but does not have to land with both feet simultaneously.</p>
+<p>3.2.3 Hops laterally at least 18 inches (45.5 centimeters) from a brisk forward speed.</p>
+
+<h3>3.3 Focus</h3>
+<p>3.3.1 Comfortably looks left, right, and behind quickly and unexpectedly while maintaining regular skating stride at a moderate pace.</p>
+
+<h3>3.4 Weaving</h3>
+<p>3.4.1 Maneuvers through 10 cones, each no more than five feet (1.5 meters) apart (not to exceed 50 feet or 15 meters), placed through the straightaways and track turns, in less than six seconds.</p>
+<p>3.4.2 Weaves comfortably and briskly through a moderately moving pack of skaters without focusing on their own feet.</p>
+
+<h3>3.5 Transitions</h3>
+<p>3.5.1 Turns 180° without breaking stride, maintaining a moderate pace.</p>
+<p>3.5.1.1 Turns clockwise and counterclockwise from front to back.</p>
+<p>3.5.1.2 Turns clockwise and counterclockwise from back to front.</p>
+<p>3.5.2 Turns 360° without breaking stride, from a moderate pace. Using two 180° turns in a row, without breaking stride, is acceptable.</p>
+
+<h2>4 Pack Skills and Interactions</h2>
+
+<p>Skaters must demonstrate the ability to perform the following skills legally, safely, and without losing balance, stumbling, or falling, while skating at a moderate pace.</p>
+
+<h3>4.1 Whips</h3>
+<p>4.1.1 Giving and receiving arm whips.</p>
+<p>4.1.1.1 Giving an inside whip, the initiating skater holds their right arm against their body, providing a hand as a “handle” for the receiver to grab and pull. The initiator does not attempt to pull from the shoulder. The initiator may use the left hand to push the receiving skater.</p>
+<p>4.1.1.2 Giving outside whip, the initiating skater positions body with one foot extended in front of the other, and extends right arm to receiver. The receiving skater grasps the initiator’s hand with their own right hand. The initiator of the whip, using core abdominal muscles, not the shoulder muscles, pulls the receiver, transferring momentum to the skater being whipped.</p>
+<p>4.1.2 Taking and providing hip, belt and clothing whips.</p>
+<p>4.1.2.1 Consistently demonstrates the ability, judgment and timing to take a whip off another skater’s body or clothing without pulling the other skater off-balance.</p>
+<p>4.1.2.2 Consistently demonstrates the stability to provide hip and clothing whips without getting pulled off-balance.</p>
+
+<h3>4.2 Pushes</h3>
+<p>4.2.1 Giving pushes</p>
+<p>4.2.1.1 Pushes receiving skater near receiver’s center of gravity (hips or buttocks) with ample force to provide noticeable change in receiving skater’s direction of momentum.</p>
+<p>4.2.1.2 Pushes are centered and even (does not turn receiving skater’s hips).</p>
+<p>4.2.1.3 Pushes are parallel to the floor (does not push up, causing the receiver to be pushed off their feet, or down, causing the receiver to be pushed to the floor).</p>
+<p>4.2.1.4 Maintains form and balance before, during and after pushing receiving skater.</p>
+<p>4.2.2 Receiving pushes</p>
+<p>4.2.2.1 Uses momentum provided from a forward push to accelerate and begins skating within two seconds of push.</p>
+<p>4.2.2.2 Maintains form and balance while receiving push forward, to left and/or right.</p>
+
+<h3>4.3 Pacing</h3>
+<p>4.3.1 Adjusts to the variable speeds (decrease/increase) of a pace line while maintaining an armslength distance from other skaters without falling, tripping, overtaking or running into another skater.</p>
+
+<h3>4.4 Weaving Around Moving Obstacles</h3>
+<p>4.4.1 Demonstrates weaving through a single-file line of skaters, each an arm’s length apart, at a moderate pace.</p>
+
+<h3>4.5 Unexpected Obstacles</h3>
+<p>4.5.1 Testing all skaters in a pack of 4-10 moving at a moderate pace. All skaters demonstrate the ability to perform safe knee taps and slides at unexpected times in the pack. Pack skaters must avoid the downed skater(s) without going out of bounds, falling over them or causing unnecessary hazard.</p>
+<p>4.5.2 Demonstrates the ability to recover balance after bumping skates or locking wheels with another skater.</p>
+
+<h2>5 Blocking</h2>
+
+<p>Skater must demonstrate the ability to perform the following skills without fouling other skaters while skating at a moderate pace.</p>
+
+<h3>5.1 Taking Hits</h3>
+<p>5.1.1 Responds safely to repeated heavy blocks without flailing or grabbing other skaters. If the hit knocks the skater off balance, they fall safely, without sprawling, and demonstrate an ability to recover within two to four seconds.</p>
+<p>5.1.2 Demonstrates the above in a pack situation, without causing an unnecessary hazard for pack skaters.</p>
+
+<h3>5.2 Positional Blocking and Leaning (aka frontal blocking or stall blocking)</h3>
+<p>5.2.1 Performs contact with good posture and without loss of balance.</p>
+<p>5.2.2 Demonstrates ability to lean and push on an opponent with legal blocking zones to legal target zones while moving at moderate pack speed.</p>
+<p>5.2.3 Demonstrate ability to plow stop in a pack without tripping other skaters in the pack.</p>
+<p>5.2.4 Demonstrate ability to use a plow stop to slow another skater.</p>
+<p>5.2.4.1 Must be no more than two feet (0.5 meters) in front of other skater.</p>
+<p>5.2.4.2 Other skater must have demonstrated decrease in pace due to blocking skater’s positioning and/or contact.</p>
+
+<h3>5.3 Checks</h3>
+<p>5.3.1 Demonstrates the ability to perform repetitive hip and body checks delivered with legal blocking zones to legal target zones with moderate to heavy force while skating at a brisk pace.</p>
+
+<h2>6 Glossary</h2>
+
+<h3>Pace</h3>
+<p>Brisk pace is greater than five laps per minute.</p>
+<p>Moderate pace is three to five laps per minute.</p>
+<h3>Without Breaking Stride</h3>
+<p>A skater starts by striding in one direction and, using the same rhythm as established skating stride, executes a transition and/or recovery tactic and continues skating at prior established stride without anoticeable change in pace or rhythm.</p>
         ]]>
     </string>
 </resources>
