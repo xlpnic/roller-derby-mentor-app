@@ -1,4 +1,4 @@
-package com.example.rollerderbymentormagic.ui.gallery;
+package com.example.rollerderbymentormagic.ui.skills;
 
 import android.os.Bundle;
 import android.text.Html;
@@ -9,25 +9,23 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import androidx.annotation.Nullable;
 import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
-import androidx.lifecycle.Observer;
 import androidx.lifecycle.ViewModelProviders;
 
 import com.example.rollerderbymentormagic.R;
 
 import static androidx.core.text.HtmlCompat.fromHtml;
 
-public class GalleryFragment extends Fragment {
+public class SkillsFragment extends Fragment {
 
-    private GalleryViewModel galleryViewModel;
+    private SkillsViewModel skillsViewModel;
 
     public View onCreateView(@NonNull LayoutInflater inflater,
                              ViewGroup container, Bundle savedInstanceState) {
-        galleryViewModel =
-                ViewModelProviders.of(this).get(GalleryViewModel.class);
-        View root = inflater.inflate(R.layout.fragment_gallery, container, false);
+        skillsViewModel =
+                ViewModelProviders.of(this).get(SkillsViewModel.class);
+        View root = inflater.inflate(R.layout.fragment_skills, container, false);
         final TextView textView = root.findViewById(R.id.text_gallery);
 
         CharSequence fullSkillsText = getText(R.string.skills_full);
