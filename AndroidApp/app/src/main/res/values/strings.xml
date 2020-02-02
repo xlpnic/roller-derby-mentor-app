@@ -9,7 +9,7 @@
 
     <string name="app_title">Roller Derby Mentor Magic</string>
     <string name="menu_home">Home</string>
-    <string name="menu_gallery">Skills</string>
+    <string name="menu_skills">Skills</string>
     <string name="menu_slideshow">Slideshow</string>
     <string name="menu_tools">Tools</string>
     <string name="menu_share">Share</string>

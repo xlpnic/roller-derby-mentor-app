@@ -26,7 +26,7 @@ public class SkillsFragment extends Fragment {
         skillsViewModel =
                 ViewModelProviders.of(this).get(SkillsViewModel.class);
         View root = inflater.inflate(R.layout.fragment_skills, container, false);
-        final TextView textView = root.findViewById(R.id.text_gallery);
+        final TextView textView = root.findViewById(R.id.text_skills);
 
         CharSequence fullSkillsText = getText(R.string.skills_full);
         String fullSkillsString = getString(R.string.skills_full);
