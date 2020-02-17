@@ -9,11 +9,12 @@
 
     <string name="app_title">Roller Derby Mentor Magic</string>
     <string name="menu_home">Home</string>
+    <string name="menu_about">About</string>
     <string name="menu_skills">Skills</string>
     <string name="nav_skills_skating_posture">1.1 Skating Posture</string>
     <string name="nav_skills_stride">1.2 Stride</string>
     <string name="nav_skills_crossovers">1.3 Crossovers</string>
-    <string name="menu_about">About</string>
+    <string name="nav_skills_speed_endurance">1.4 Speed and Endurance</string>
 
     <string name="about_full">
         <![CDATA[
@@ -50,15 +51,19 @@
         ]]>
     </string>
 
+    <string name="skills_speed_endurance">
+        <![CDATA[
+<h3>1.4 Speed and Endurance</h3>
+<p>1.4.1 Skates at least 27 laps around regulation track within five minutes.</p>
+<p>1.4.2 Accelerates from a standstill to complete one lap within 13 seconds.</p>
+        ]]>
+    </string>
+
     <string name="skills_full">
         <![CDATA[
 <h1>Minimum Skills - Requirements for Skaters</h1>
 
 <h2>1 Basic Skating Skills</h2>
-
-<h3>1.4 Speed and Endurance</h3>
-<p>1.4.1 Skates at least 27 laps around regulation track within five minutes.</p>
-<p>1.4.2 Accelerates from a standstill to complete one lap within 13 seconds.</p>
 
 <h3>1.5 Stops</h3>
 <p>Skater must come to a complete stop from a brisk pace within four seconds, using proper form and without losing balance.</p>
