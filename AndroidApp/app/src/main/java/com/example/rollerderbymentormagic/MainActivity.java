@@ -32,7 +32,6 @@ public class MainActivity extends AppCompatActivity {
         // menu should be considered as top level destinations.
         mAppBarConfiguration = new AppBarConfiguration.Builder(
                 R.id.nav_home,
-                R.id.nav_skills,
                 R.id.nav_skills_skating_posture,
                 R.id.nav_skills_stride,
                 R.id.nav_skills_crossovers,

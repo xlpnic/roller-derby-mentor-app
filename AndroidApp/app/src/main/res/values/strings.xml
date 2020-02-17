@@ -15,6 +15,9 @@
     <string name="menu_basic_skills_header">1 Basic Skating Skills</string>
     <string name="menu_recovery_tactics_header">2 Recovery Tactics</string>
     <string name="menu_balance_agility_header">3 Balance and Agility</string>
+    <string name="menu_skills_interactions_header">4 Pack Skills and Interactions</string>
+    <string name="menu_blocking_header">5 Blocking</string>
+    <string name="menu_glossary_header">6 Glossary</string>
 
     <string name="nav_skills_skating_posture">1.1 Skating Posture</string>
     <string name="nav_skills_stride">1.2 Stride</string>
@@ -132,51 +135,88 @@
         ]]>
     </string>
 
-    <string name="skills_full">
+    <string name="skills_standing_stepping">
         <![CDATA[
-<h1>Minimum Skills - Requirements for Skaters</h1>
+<h3>3.1 Standing and Stepping from a Standstill, Maintaining Control of Wheels (not rolling)</h3>
 
 <p>Skater must demonstrate the ability to perform the following tasks without losing balance, stumbling or falling.</p>
 
-<h3>3.1 Standing and Stepping from a Standstill, Maintaining Control of Wheels (not rolling)</h3>
 <p>3.1.1 Forward and backward.</p>
 <p>3.1.2 Side to side in both directions.</p>
 <p>3.1.3 Grapevine (first foot side steps, second foot steps across and in front of first foot, first foot side steps, second foot steps behind and crosses first foot) to both the right and left.</p>
 <p>3.1.4 Shuffle (first foot side steps, second foot steps to meet first foot without crossing first foot, first foot immediately side steps in a hopping motion) to both the right and left.</p>
 <p>3.1.5 Quick steps (both feet rapidly alternate in small steps, only one foot is on the ground at a time) in place and to the right and left.</p>
 <p>3.1.6 Ability to balance on each foot from a stationary position at least 30 seconds.</p>
+        ]]>
+    </string>
 
+    <string name="skills_hopping">
+        <![CDATA[
 <h3>3.2 Hopping</h3>
+
+<p>Skater must demonstrate the ability to perform the following tasks without losing balance, stumbling or falling.</p>
+
 <p>3.2.1 Hops over an object at least six inches (15 centimeters) in height without touching the object or losing balance, while skating at a moderate pace.</p>
 <p>3.2.2 Jumps with both feet simultaneously, but does not have to land with both feet simultaneously.</p>
 <p>3.2.3 Hops laterally at least 18 inches (45.5 centimeters) from a brisk forward speed.</p>
+        ]]>
+    </string>
 
+    <string name="skills_focus">
+        <![CDATA[
 <h3>3.3 Focus</h3>
-<p>3.3.1 Comfortably looks left, right, and behind quickly and unexpectedly while maintaining regular skating stride at a moderate pace.</p>
 
+<p>Skater must demonstrate the ability to perform the following tasks without losing balance, stumbling or falling.</p>
+
+<p>3.3.1 Comfortably looks left, right, and behind quickly and unexpectedly while maintaining regular skating stride at a moderate pace.</p>
+        ]]>
+    </string>
+
+    <string name="skills_weaving">
+        <![CDATA[
 <h3>3.4 Weaving</h3>
+
+<p>Skater must demonstrate the ability to perform the following tasks without losing balance, stumbling or falling.</p>
+
 <p>3.4.1 Maneuvers through 10 cones, each no more than five feet (1.5 meters) apart (not to exceed 50 feet or 15 meters), placed through the straightaways and track turns, in less than six seconds.</p>
 <p>3.4.2 Weaves comfortably and briskly through a moderately moving pack of skaters without focusing on their own feet.</p>
+        ]]>
+    </string>
 
+    <string name="skills_translations">
+        <![CDATA[
 <h3>3.5 Transitions</h3>
+
+<p>Skater must demonstrate the ability to perform the following tasks without losing balance, stumbling or falling.</p>
+
 <p>3.5.1 Turns 180° without breaking stride, maintaining a moderate pace.</p>
 <p>3.5.1.1 Turns clockwise and counterclockwise from front to back.</p>
 <p>3.5.1.2 Turns clockwise and counterclockwise from back to front.</p>
 <p>3.5.2 Turns 360° without breaking stride, from a moderate pace. Using two 180° turns in a row, without breaking stride, is acceptable.</p>
+        ]]>
+    </string>
 
-<h2>4 Pack Skills and Interactions</h2>
+    <string name="skills_whips">
+        <![CDATA[
+<h3>4.1 Whips</h3>
 
 <p>Skaters must demonstrate the ability to perform the following skills legally, safely, and without losing balance, stumbling, or falling, while skating at a moderate pace.</p>
 
-<h3>4.1 Whips</h3>
 <p>4.1.1 Giving and receiving arm whips.</p>
 <p>4.1.1.1 Giving an inside whip, the initiating skater holds their right arm against their body, providing a hand as a “handle” for the receiver to grab and pull. The initiator does not attempt to pull from the shoulder. The initiator may use the left hand to push the receiving skater.</p>
 <p>4.1.1.2 Giving outside whip, the initiating skater positions body with one foot extended in front of the other, and extends right arm to receiver. The receiving skater grasps the initiator’s hand with their own right hand. The initiator of the whip, using core abdominal muscles, not the shoulder muscles, pulls the receiver, transferring momentum to the skater being whipped.</p>
 <p>4.1.2 Taking and providing hip, belt and clothing whips.</p>
 <p>4.1.2.1 Consistently demonstrates the ability, judgment and timing to take a whip off another skater’s body or clothing without pulling the other skater off-balance.</p>
 <p>4.1.2.2 Consistently demonstrates the stability to provide hip and clothing whips without getting pulled off-balance.</p>
+        ]]>
+    </string>
 
+    <string name="skills_pushes">
+        <![CDATA[
 <h3>4.2 Pushes</h3>
+
+<p>Skaters must demonstrate the ability to perform the following skills legally, safely, and without losing balance, stumbling, or falling, while skating at a moderate pace.</p>
+
 <p>4.2.1 Giving pushes</p>
 <p>4.2.1.1 Pushes receiving skater near receiver’s center of gravity (hips or buttocks) with ample force to provide noticeable change in receiving skater’s direction of momentum.</p>
 <p>4.2.1.2 Pushes are centered and even (does not turn receiving skater’s hips).</p>
@@ -185,38 +225,78 @@
 <p>4.2.2 Receiving pushes</p>
 <p>4.2.2.1 Uses momentum provided from a forward push to accelerate and begins skating within two seconds of push.</p>
 <p>4.2.2.2 Maintains form and balance while receiving push forward, to left and/or right.</p>
+        ]]>
+    </string>
 
+    <string name="skills_pacing">
+        <![CDATA[
 <h3>4.3 Pacing</h3>
+
+<p>Skaters must demonstrate the ability to perform the following skills legally, safely, and without losing balance, stumbling, or falling, while skating at a moderate pace.</p>
+
 <p>4.3.1 Adjusts to the variable speeds (decrease/increase) of a pace line while maintaining an armslength distance from other skaters without falling, tripping, overtaking or running into another skater.</p>
+        ]]>
+    </string>
 
+    <string name="skills_moving_obstacles">
+        <![CDATA[
 <h3>4.4 Weaving Around Moving Obstacles</h3>
-<p>4.4.1 Demonstrates weaving through a single-file line of skaters, each an arm’s length apart, at a moderate pace.</p>
 
+<p>Skaters must demonstrate the ability to perform the following skills legally, safely, and without losing balance, stumbling, or falling, while skating at a moderate pace.</p>
+
+<p>4.4.1 Demonstrates weaving through a single-file line of skaters, each an arm’s length apart, at a moderate pace.</p>
+        ]]>
+    </string>
+
+    <string name="skills_unexpected_obstacles">
+        <![CDATA[
 <h3>4.5 Unexpected Obstacles</h3>
+
+<p>Skaters must demonstrate the ability to perform the following skills legally, safely, and without losing balance, stumbling, or falling, while skating at a moderate pace.</p>
+
 <p>4.5.1 Testing all skaters in a pack of 4-10 moving at a moderate pace. All skaters demonstrate the ability to perform safe knee taps and slides at unexpected times in the pack. Pack skaters must avoid the downed skater(s) without going out of bounds, falling over them or causing unnecessary hazard.</p>
 <p>4.5.2 Demonstrates the ability to recover balance after bumping skates or locking wheels with another skater.</p>
+        ]]>
+    </string>
 
-<h2>5 Blocking</h2>
+    <string name="skills_taking_hits">
+        <![CDATA[
+<h3>5.1 Taking Hits</h3>
 
 <p>Skater must demonstrate the ability to perform the following skills without fouling other skaters while skating at a moderate pace.</p>
 
-<h3>5.1 Taking Hits</h3>
 <p>5.1.1 Responds safely to repeated heavy blocks without flailing or grabbing other skaters. If the hit knocks the skater off balance, they fall safely, without sprawling, and demonstrate an ability to recover within two to four seconds.</p>
 <p>5.1.2 Demonstrates the above in a pack situation, without causing an unnecessary hazard for pack skaters.</p>
+        ]]>
+    </string>
 
+    <string name="skills_positional_blocking">
+        <![CDATA[
 <h3>5.2 Positional Blocking and Leaning (aka frontal blocking or stall blocking)</h3>
+
+<p>Skater must demonstrate the ability to perform the following skills without fouling other skaters while skating at a moderate pace.</p>
+
 <p>5.2.1 Performs contact with good posture and without loss of balance.</p>
 <p>5.2.2 Demonstrates ability to lean and push on an opponent with legal blocking zones to legal target zones while moving at moderate pack speed.</p>
 <p>5.2.3 Demonstrate ability to plow stop in a pack without tripping other skaters in the pack.</p>
 <p>5.2.4 Demonstrate ability to use a plow stop to slow another skater.</p>
 <p>5.2.4.1 Must be no more than two feet (0.5 meters) in front of other skater.</p>
 <p>5.2.4.2 Other skater must have demonstrated decrease in pace due to blocking skater’s positioning and/or contact.</p>
+        ]]>
+    </string>
 
+    <string name="skills_checks">
+        <![CDATA[
 <h3>5.3 Checks</h3>
+
+<p>Skater must demonstrate the ability to perform the following skills without fouling other skaters while skating at a moderate pace.</p>
+
 <p>5.3.1 Demonstrates the ability to perform repetitive hip and body checks delivered with legal blocking zones to legal target zones with moderate to heavy force while skating at a brisk pace.</p>
+        ]]>
+    </string>
 
-<h2>6 Glossary</h2>
-
+    <string name="skills_glossary">
+        <![CDATA[
 <h3>Pace</h3>
 <p>Brisk pace is greater than five laps per minute.</p>
 <p>Moderate pace is three to five laps per minute.</p>
