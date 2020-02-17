@@ -14,6 +14,7 @@
 
     <string name="menu_basic_skills_header">1 Basic Skating Skills</string>
     <string name="menu_recovery_tactics_header">2 Recovery Tactics</string>
+    <string name="menu_balance_agility_header">3 Balance and Agility</string>
 
     <string name="nav_skills_skating_posture">1.1 Skating Posture</string>
     <string name="nav_skills_stride">1.2 Stride</string>
@@ -21,6 +22,8 @@
     <string name="nav_skills_speed_endurance">1.4 Speed and Endurance</string>
     <string name="nav_skills_stops">1.5 Stops</string>
     <string name="nav_skills_other_skills">1.6 Other Skating Skills</string>
+    <string name="nav_skills_knee_taps">2.1 Knee Taps</string>
+    <string name="nav_skills_knee_slides">2.2 Knee Slides</string>
 
     <string name="about_full">
         <![CDATA[
@@ -101,31 +104,37 @@
         ]]>
     </string>
 
-    <string name="skills_full">
+    <string name="skills_knee_taps">
         <![CDATA[
-<h1>Minimum Skills - Requirements for Skaters</h1>
-
-<h2>1 Basic Skating Skills</h2>
-
-<h2>2 Recovery Tactics</h2>
+<h3>2.1 Knee Taps</h3>
 
 <p>Skater must perform the following falls safely, correctly and naturally. Skaters must be able to slide into knee contact with the floor, rather than crashing onto pads. Slides should be performed from a brisk pace without using hands or flailing arms. Recovery to a normal skating pace should be smooth and immediate, unless noted otherwise.</p>
 
-<h3>2.1 Knee Taps</h3>
 <p>2.1.1 Left.</p>
 <p>2.1.2 Right.</p>
 <p>2.1.3 Performs each knee tap without coming to a complete stop.</p>
 <p>2.1.4 Taps a single knee without breaking normal skating stride.</p>
 <p>2.1.5 Recovers from knee tap without using hands to get up.</p>
 <p>2.1.6 Performs two consecutive single knee taps in stride, with low recovery.</p>
+        ]]>
+    </string>
 
+    <string name="skills_knee_slides">
+        <![CDATA[
 <h3>2.2 Double Knee Slides</h3>
+
+<p>Skater must perform the following falls safely, correctly and naturally. Skaters must be able to slide into knee contact with the floor, rather than crashing onto pads. Slides should be performed from a brisk pace without using hands or flailing arms. Recovery to a normal skating pace should be smooth and immediate, unless noted otherwise.</p>
+
 <p>2.2.1 Knees do not make contact with ground at exact same time.</p>
 <p>2.2.2 Returns to active skating within three seconds.</p>
 <p>2.2.3 Recovers without using hands to get up.</p>
 <p>2.2.4 Momentum used to initiate the slide is continued into the recovery to normal skating motion.</p>
+        ]]>
+    </string>
 
-<h2>3 Balance and Agility</h2>
+    <string name="skills_full">
+        <![CDATA[
+<h1>Minimum Skills - Requirements for Skaters</h1>
 
 <p>Skater must demonstrate the ability to perform the following tasks without losing balance, stumbling or falling.</p>
 

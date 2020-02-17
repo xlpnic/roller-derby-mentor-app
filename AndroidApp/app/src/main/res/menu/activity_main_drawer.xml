@@ -35,6 +35,15 @@
             android:title="@string/nav_skills_other_skills" />
         <item android:title="@string/menu_recovery_tactics_header"/>
         <item
+            android:id="@+id/nav_skills_knee_taps"
+            android:icon="@drawable/ic_menu_skills"
+            android:title="@string/nav_skills_knee_taps" />
+        <item
+            android:id="@+id/nav_skills_knee_slides"
+            android:icon="@drawable/ic_menu_skills"
+            android:title="@string/nav_skills_knee_slides" />
+        <item android:title="@string/menu_balance_agility_header"/>
+        <item
             android:id="@+id/nav_skills"
             android:icon="@drawable/ic_menu_skills"
             android:title="@string/menu_skills" />

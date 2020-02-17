@@ -48,6 +48,18 @@
         tools:layout="@layout/fragment_skills" />
 
     <fragment
+        android:id="@+id/nav_skills_knee_taps"
+        android:name="com.example.rollerderbymentormagic.ui.skills.KneeTapsFragment"
+        android:label="@string/nav_skills_knee_taps"
+        tools:layout="@layout/fragment_skills" />
+
+    <fragment
+        android:id="@+id/nav_skills_knee_slides"
+        android:name="com.example.rollerderbymentormagic.ui.skills.KneeSlidesFragment"
+        android:label="@string/nav_skills_knee_slides"
+        tools:layout="@layout/fragment_skills" />
+
+    <fragment
         android:id="@+id/nav_skills"
         android:name="com.example.rollerderbymentormagic.ui.skills.SkillsFragment"
         android:label="@string/menu_skills"
