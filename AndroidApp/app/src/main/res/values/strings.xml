@@ -11,11 +11,16 @@
     <string name="menu_home">Home</string>
     <string name="menu_about">About</string>
     <string name="menu_skills">Skills</string>
+
+    <string name="menu_basic_skills_header">1 Basic Skating Skills</string>
+    <string name="menu_recovery_tactics_header">2 Recovery Tactics</string>
+
     <string name="nav_skills_skating_posture">1.1 Skating Posture</string>
     <string name="nav_skills_stride">1.2 Stride</string>
     <string name="nav_skills_crossovers">1.3 Crossovers</string>
     <string name="nav_skills_speed_endurance">1.4 Speed and Endurance</string>
     <string name="nav_skills_stops">1.5 Stops</string>
+    <string name="nav_skills_other_skills">1.6 Other Skating Skills</string>
 
     <string name="about_full">
         <![CDATA[
@@ -82,12 +87,8 @@
         ]]>
     </string>
 
-    <string name="skills_full">
+    <string name="skills_other_skills">
         <![CDATA[
-<h1>Minimum Skills - Requirements for Skaters</h1>
-
-<h2>1 Basic Skating Skills</h2>
-
 <h3>1.6 Other Skating Skills</h3>
 <p>1.6.1 Performs one-foot glides with each foot for the length of the track turn and straightaway with good balance.</p>
 <p>1.6.1.1 In low stance with one foot completely off the floor, able to balance weight over the other foot for at least five seconds.</p>
@@ -97,6 +98,14 @@
 <p>1.6.3.1 Performs smooth, quick lateral cuts, crossing the track at least four times on each straightaway and at least three times on each track turn.</p>
 <p>1.6.4 Backwards skating within track boundaries.</p>
 <p>1.6.4.1 Maintains moderate pace skating backward around the entire track.</p>
+        ]]>
+    </string>
+
+    <string name="skills_full">
+        <![CDATA[
+<h1>Minimum Skills - Requirements for Skaters</h1>
+
+<h2>1 Basic Skating Skills</h2>
 
 <h2>2 Recovery Tactics</h2>
 

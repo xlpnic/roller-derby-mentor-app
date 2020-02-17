@@ -8,6 +8,7 @@
             android:id="@+id/nav_home"
             android:icon="@drawable/ic_menu_camera"
             android:title="@string/menu_home" />
+        <item android:title="@string/menu_basic_skills_header"/>
         <item
             android:id="@+id/nav_skills_skating_posture"
             android:icon="@drawable/ic_menu_skills"
@@ -28,6 +29,11 @@
             android:id="@+id/nav_skills_stops"
             android:icon="@drawable/ic_menu_skills"
             android:title="@string/nav_skills_stops" />
+        <item
+            android:id="@+id/nav_skills_other_skills"
+            android:icon="@drawable/ic_menu_skills"
+            android:title="@string/nav_skills_other_skills" />
+        <item android:title="@string/menu_recovery_tactics_header"/>
         <item
             android:id="@+id/nav_skills"
             android:icon="@drawable/ic_menu_skills"
