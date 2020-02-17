@@ -15,6 +15,7 @@
     <string name="nav_skills_stride">1.2 Stride</string>
     <string name="nav_skills_crossovers">1.3 Crossovers</string>
     <string name="nav_skills_speed_endurance">1.4 Speed and Endurance</string>
+    <string name="nav_skills_stops">1.5 Stops</string>
 
     <string name="about_full">
         <![CDATA[
@@ -59,12 +60,8 @@
         ]]>
     </string>
 
-    <string name="skills_full">
+    <string name="skills_stops">
         <![CDATA[
-<h1>Minimum Skills - Requirements for Skaters</h1>
-
-<h2>1 Basic Skating Skills</h2>
-
 <h3>1.5 Stops</h3>
 <p>Skater must come to a complete stop from a brisk pace within four seconds, using proper form and without losing balance.</p>
 <p>Each WFTDA-Member league that enters into a WFTDA-sanctioned game must designate a league member who is responsible for verifying that every skater in the game meets all of the skill requirements listed below. Passing the WFTDA Skater Rules Test is also part of the minimum skills requirement. Member leagues are responsible for determining frequency of re-assessment based on league skaters’ experience and skill level.</p>
@@ -82,6 +79,14 @@
 <p>1.5.2 Plow stop</p>
 <p>1.5.2.1 Turns one or both feet so toes are pointing in and heels are pointing out.</p>
 <p>1.5.2.2 Upon completion of stop, feet are in a position that would allow resumed skating (feet are not spread so wide apart skater must adjust stance before resuming skating).</p>
+        ]]>
+    </string>
+
+    <string name="skills_full">
+        <![CDATA[
+<h1>Minimum Skills - Requirements for Skaters</h1>
+
+<h2>1 Basic Skating Skills</h2>
 
 <h3>1.6 Other Skating Skills</h3>
 <p>1.6.1 Performs one-foot glides with each foot for the length of the track turn and straightaway with good balance.</p>
