@@ -26,38 +26,32 @@
     <fragment
         android:id="@+id/nav_skills_crossovers"
         android:name="com.example.rollerderbymentormagic.ui.skills.CrossoversFragment"
-        android:label="@string/nav_skills_crossovers"
-        tools:layout="@layout/fragment_skills" />
+        android:label="@string/nav_skills_crossovers"/>
 
     <fragment
         android:id="@+id/nav_skills_speed_endurance"
         android:name="com.example.rollerderbymentormagic.ui.skills.SpeedEnduranceFragment"
-        android:label="@string/nav_skills_speed_endurance"
-        tools:layout="@layout/fragment_skills" />
+        android:label="@string/nav_skills_speed_endurance"/>
 
     <fragment
         android:id="@+id/nav_skills_stops"
         android:name="com.example.rollerderbymentormagic.ui.skills.StopsFragment"
-        android:label="@string/nav_skills_stops"
-        tools:layout="@layout/fragment_skills" />
+        android:label="@string/nav_skills_stops"/>
 
     <fragment
         android:id="@+id/nav_skills_other_skills"
         android:name="com.example.rollerderbymentormagic.ui.skills.OtherSkillsFragment"
-        android:label="@string/nav_skills_other_skills"
-        tools:layout="@layout/fragment_skills" />
+        android:label="@string/nav_skills_other_skills"/>
 
     <fragment
         android:id="@+id/nav_skills_knee_taps"
         android:name="com.example.rollerderbymentormagic.ui.skills.KneeTapsFragment"
-        android:label="@string/nav_skills_knee_taps"
-        tools:layout="@layout/fragment_skills" />
+        android:label="@string/nav_skills_knee_taps"/>
 
     <fragment
         android:id="@+id/nav_skills_knee_slides"
         android:name="com.example.rollerderbymentormagic.ui.skills.KneeSlidesFragment"
-        android:label="@string/nav_skills_knee_slides"
-        tools:layout="@layout/fragment_skills" />
+        android:label="@string/nav_skills_knee_slides"/>
 
     <fragment
         android:id="@+id/nav_about"
