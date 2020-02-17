@@ -16,7 +16,7 @@
         android:name="com.example.rollerderbymentormagic.ui.skills.SkatingPostureFragment"
         android:label="@string/nav_skills_skating_posture"/>
 
-    <fragmentt
+    <fragment
         android:id="@+id/nav_skills_stride"
         android:name="com.example.rollerderbymentormagic.ui.skills.StrideFragment"
         android:label="@string/nav_skills_stride"/>
