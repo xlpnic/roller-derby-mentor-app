@@ -9,6 +9,10 @@
             android:icon="@drawable/ic_menu_camera"
             android:title="@string/menu_home" />
         <item
+            android:id="@+id/nav_skills_skating_posture"
+            android:icon="@drawable/ic_menu_skills"
+            android:title="@string/nav_skills_skating_posture" />
+        <item
             android:id="@+id/nav_skills"
             android:icon="@drawable/ic_menu_skills"
             android:title="@string/menu_skills" />

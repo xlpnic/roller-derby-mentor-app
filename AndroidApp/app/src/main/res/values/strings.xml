@@ -10,6 +10,7 @@
     <string name="app_title">Roller Derby Mentor Magic</string>
     <string name="menu_home">Home</string>
     <string name="menu_skills">Skills</string>
+    <string name="nav_skills_skating_posture">1.1 Skating Posture</string>
     <string name="menu_about">About</string>
 
     <string name="about_full">
@@ -20,16 +21,20 @@
         ]]>
     </string>
 
+    <string name="skills_skating_posture">
+        <![CDATA[
+<h3>1.1 Skating Posture</h3>
+<p>1.1.1 Bends at knees and hips with shoulders back.</p>
+<p>1.1.2 Demonstrates stability, with center of gravity down and forward.</p>
+<p>1.1.3 Demonstrates ability to skate low with bent, flexible knees.</p>
+        ]]>
+    </string>
+
     <string name="skills_full">
         <![CDATA[
 <h1>Minimum Skills - Requirements for Skaters</h1>
 
 <h2>1 Basic Skating Skills</h2>
-
-<h3>1.1 Skating Posture</h3>
-<p>1.1.1 Bends at knees and hips with shoulders back.</p>
-<p>1.1.2 Demonstrates stability, with center of gravity down and forward.</p>
-<p>1.1.3 Demonstrates ability to skate low with bent, flexible knees.</p>
 
 <h3>1.2 Stride</h3>
 <p>1.2.1 Uses steady, confident, fluid strides.</p>
