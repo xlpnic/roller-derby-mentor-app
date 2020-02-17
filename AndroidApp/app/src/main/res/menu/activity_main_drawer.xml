@@ -13,6 +13,10 @@
             android:icon="@drawable/ic_menu_skills"
             android:title="@string/nav_skills_skating_posture" />
         <item
+            android:id="@+id/nav_skills_stride"
+            android:icon="@drawable/ic_menu_skills"
+            android:title="@string/nav_skills_stride" />
+        <item
             android:id="@+id/nav_skills"
             android:icon="@drawable/ic_menu_skills"
             android:title="@string/menu_skills" />

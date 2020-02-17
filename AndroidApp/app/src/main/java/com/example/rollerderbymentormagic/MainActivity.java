@@ -34,6 +34,7 @@ public class MainActivity extends AppCompatActivity {
                 R.id.nav_home,
                 R.id.nav_skills,
                 R.id.nav_skills_skating_posture,
+                R.id.nav_skills_stride,
                 R.id.nav_about)
                 .setDrawerLayout(drawer)
                 .build();

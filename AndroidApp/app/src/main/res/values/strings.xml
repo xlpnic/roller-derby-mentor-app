@@ -11,6 +11,7 @@
     <string name="menu_home">Home</string>
     <string name="menu_skills">Skills</string>
     <string name="nav_skills_skating_posture">1.1 Skating Posture</string>
+    <string name="nav_skills_stride">1.2 Stride</string>
     <string name="menu_about">About</string>
 
     <string name="about_full">
@@ -30,16 +31,20 @@
         ]]>
     </string>
 
+    <string name="skills_stride">
+        <![CDATA[
+<h3>1.2 Stride</h3>
+<p>1.2.1 Uses steady, confident, fluid strides.</p>
+<p>1.2.2 Uses both feet to push forward on straightaways.</p>
+<p>1.2.3 Shifts weight completely from foot to foot without stumbling.</p>
+        ]]>
+    </string>
+
     <string name="skills_full">
         <![CDATA[
 <h1>Minimum Skills - Requirements for Skaters</h1>
 
 <h2>1 Basic Skating Skills</h2>
-
-<h3>1.2 Stride</h3>
-<p>1.2.1 Uses steady, confident, fluid strides.</p>
-<p>1.2.2 Uses both feet to push forward on straightaways.</p>
-<p>1.2.3 Shifts weight completely from foot to foot without stumbling.</p>
 
 <h3>1.3 Crossovers</h3>
 <p>1.3.1 Performs smooth crossovers while skating straightaways and track turns.</p>
