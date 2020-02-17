@@ -14,14 +14,12 @@
     <fragment
         android:id="@+id/nav_skills_skating_posture"
         android:name="com.example.rollerderbymentormagic.ui.skills.SkatingPostureFragment"
-        android:label="@string/nav_skills_skating_posture"
-        tools:layout="@layout/fragment_skills" />
+        android:label="@string/nav_skills_skating_posture"/>
 
-    <fragment
+    <fragmentt
         android:id="@+id/nav_skills_stride"
         android:name="com.example.rollerderbymentormagic.ui.skills.StrideFragment"
-        android:label="@string/nav_skills_stride"
-        tools:layout="@layout/fragment_skills" />
+        android:label="@string/nav_skills_stride"/>
 
     <fragment
         android:id="@+id/nav_skills_crossovers"
