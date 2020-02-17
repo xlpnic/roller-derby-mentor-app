@@ -3,59 +3,65 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:showIn="navigation_view">
 
-    <group android:checkableBehavior="single">
-        <item
-            android:id="@+id/nav_home"
-            android:icon="@drawable/ic_menu_camera"
-            android:title="@string/menu_home" />
-        <item android:title="@string/menu_basic_skills_header"/>
-        <item
-            android:id="@+id/nav_skills_skating_posture"
-            android:icon="@drawable/ic_menu_skills"
-            android:title="@string/nav_skills_skating_posture" />
-        <item
-            android:id="@+id/nav_skills_stride"
-            android:icon="@drawable/ic_menu_skills"
-            android:title="@string/nav_skills_stride" />
-        <item
-            android:id="@+id/nav_skills_crossovers"
-            android:icon="@drawable/ic_menu_skills"
-            android:title="@string/nav_skills_crossovers" />
-        <item
-            android:id="@+id/nav_skills_speed_endurance"
-            android:icon="@drawable/ic_menu_skills"
-            android:title="@string/nav_skills_speed_endurance" />
-        <item
-            android:id="@+id/nav_skills_stops"
-            android:icon="@drawable/ic_menu_skills"
-            android:title="@string/nav_skills_stops" />
-        <item
-            android:id="@+id/nav_skills_other_skills"
-            android:icon="@drawable/ic_menu_skills"
-            android:title="@string/nav_skills_other_skills" />
-        <item android:title="@string/menu_recovery_tactics_header"/>
-        <item
-            android:id="@+id/nav_skills_knee_taps"
-            android:icon="@drawable/ic_menu_skills"
-            android:title="@string/nav_skills_knee_taps" />
-        <item
-            android:id="@+id/nav_skills_knee_slides"
-            android:icon="@drawable/ic_menu_skills"
-            android:title="@string/nav_skills_knee_slides" />
-        <item android:title="@string/menu_balance_agility_header"/>
-        <item
-            android:id="@+id/nav_about"
-            android:icon="@drawable/ic_menu_about"
-            android:title="@string/menu_about" />
-    </group>
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_menu_camera"
+        android:title="@string/menu_home" />
 
-<!--    <item android:title="Communicate">-->
-<!--        <menu>-->
-<!--            <item-->
-<!--                android:id="@+id/nav_share"-->
-<!--                android:icon="@drawable/ic_menu_share"-->
-<!--                android:title="@string/menu_share" />-->
-<!--        </menu>-->
-<!--    </item>-->
+    <item android:title="@string/menu_basic_skills_header">
+        <menu>
+            <item
+                android:id="@+id/nav_skills_skating_posture"
+                android:icon="@drawable/ic_menu_skills"
+                android:title="@string/nav_skills_skating_posture" />
+            <item
+                android:id="@+id/nav_skills_stride"
+                android:icon="@drawable/ic_menu_skills"
+                android:title="@string/nav_skills_stride" />
+            <item
+                android:id="@+id/nav_skills_crossovers"
+                android:icon="@drawable/ic_menu_skills"
+                android:title="@string/nav_skills_crossovers" />
+            <item
+                android:id="@+id/nav_skills_speed_endurance"
+                android:icon="@drawable/ic_menu_skills"
+                android:title="@string/nav_skills_speed_endurance" />
+            <item
+                android:id="@+id/nav_skills_stops"
+                android:icon="@drawable/ic_menu_skills"
+                android:title="@string/nav_skills_stops" />
+            <item
+                android:id="@+id/nav_skills_other_skills"
+                android:icon="@drawable/ic_menu_skills"
+                android:title="@string/nav_skills_other_skills" />
+        </menu>
+    </item>
+    <item android:title="@string/menu_recovery_tactics_header">
+        <menu>
+            <item
+                android:id="@+id/nav_skills_knee_taps"
+                android:icon="@drawable/ic_menu_skills"
+                android:title="@string/nav_skills_knee_taps" />
+            <item
+                android:id="@+id/nav_skills_knee_slides"
+                android:icon="@drawable/ic_menu_skills"
+                android:title="@string/nav_skills_knee_slides" />
+        </menu>
+    </item>
+
+    <item android:title="@string/menu_balance_agility_header">
+        <menu>
+        </menu>
+    </item>
+
+
+    <item android:title="Other Stuff">
+        <menu>
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/ic_menu_about"
+                android:title="@string/menu_about" />
+        </menu>
+    </item>
 
 </menu>
