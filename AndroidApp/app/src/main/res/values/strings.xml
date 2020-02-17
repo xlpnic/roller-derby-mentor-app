@@ -12,6 +12,7 @@
     <string name="menu_skills">Skills</string>
     <string name="nav_skills_skating_posture">1.1 Skating Posture</string>
     <string name="nav_skills_stride">1.2 Stride</string>
+    <string name="nav_skills_crossovers">1.3 Crossovers</string>
     <string name="menu_about">About</string>
 
     <string name="about_full">
@@ -40,16 +41,20 @@
         ]]>
     </string>
 
+    <string name="skills_crossovers">
+        <![CDATA[
+<h3>1.3 Crossovers</h3>
+<p>1.3.1 Performs smooth crossovers while skating straightaways and track turns.</p>
+<p>1.3.2 Uses both feet to push during crossovers.</p>
+<p>1.3.3 Performs reverse crossovers, crossing over the right foot to the outside of the track.</p>
+        ]]>
+    </string>
+
     <string name="skills_full">
         <![CDATA[
 <h1>Minimum Skills - Requirements for Skaters</h1>
 
 <h2>1 Basic Skating Skills</h2>
-
-<h3>1.3 Crossovers</h3>
-<p>1.3.1 Performs smooth crossovers while skating straightaways and track turns.</p>
-<p>1.3.2 Uses both feet to push during crossovers.</p>
-<p>1.3.3 Performs reverse crossovers, crossing over the right foot to the outside of the track.</p>
 
 <h3>1.4 Speed and Endurance</h3>
 <p>1.4.1 Skates at least 27 laps around regulation track within five minutes.</p>

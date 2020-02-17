@@ -17,6 +17,10 @@
             android:icon="@drawable/ic_menu_skills"
             android:title="@string/nav_skills_stride" />
         <item
+            android:id="@+id/nav_skills_crossovers"
+            android:icon="@drawable/ic_menu_skills"
+            android:title="@string/nav_skills_crossovers" />
+        <item
             android:id="@+id/nav_skills"
             android:icon="@drawable/ic_menu_skills"
             android:title="@string/menu_skills" />
