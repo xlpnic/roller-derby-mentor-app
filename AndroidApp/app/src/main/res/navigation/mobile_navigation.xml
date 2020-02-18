@@ -117,6 +117,11 @@
         android:label="@string/nav_skills_checks"/>
 
     <fragment
+        android:id="@+id/nav_glossary"
+        android:name="com.example.rollerderbymentormagic.ui.skills.GlossaryFragment"
+        android:label="@string/menu_glossary_header"/>
+
+    <fragment
         android:id="@+id/nav_about"
         android:name="com.example.rollerderbymentormagic.ui.about.AboutFragment"
         android:label="@string/menu_about"

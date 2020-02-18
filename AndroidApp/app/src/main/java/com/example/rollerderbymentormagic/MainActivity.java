@@ -53,6 +53,7 @@ public class MainActivity extends AppCompatActivity {
                 R.id.nav_skills_taking_hits,
                 R.id.nav_skills_positional_blocking,
                 R.id.nav_skills_checks,
+                R.id.nav_glossary,
                 R.id.nav_about)
                 .setDrawerLayout(drawer)
                 .build();
