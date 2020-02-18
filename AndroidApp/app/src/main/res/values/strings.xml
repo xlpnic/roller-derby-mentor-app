@@ -38,6 +38,8 @@
     <string name="nav_skills_moving_obstacles">4.4 Moving Obstacles</string>
     <string name="nav_skills_unexpected_obstacles">4.5 Unexpected Obstacles</string>
     <string name="nav_skills_taking_hits">5.1 Taking Hits</string>
+    <string name="nav_skills_positional_blocking">5.2 Positional Blocking</string>
+    <string name="nav_skills_checks">5.3 Checks</string>
 
     <string name="about_full">
         <![CDATA[
