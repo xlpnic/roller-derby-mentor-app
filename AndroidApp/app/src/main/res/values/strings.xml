@@ -27,6 +27,17 @@
     <string name="nav_skills_other_skills">1.6 Other Skating Skills</string>
     <string name="nav_skills_knee_taps">2.1 Knee Taps</string>
     <string name="nav_skills_knee_slides">2.2 Knee Slides</string>
+    <string name="nav_skills_standing_stepping">3.1 Standing and Stepping</string>
+    <string name="nav_skills_hopping">3.2 Hopping</string>
+    <string name="nav_skills_focus">3.3 Focus</string>
+    <string name="nav_skills_weaving">3.4 Weaving</string>
+    <string name="nav_skills_transitions">3.5 Transitions</string>
+    <string name="nav_skills_whips">4.1 Whips</string>
+    <string name="nav_skills_pushes">4.2 Pushes</string>
+    <string name="nav_skills_pacing">4.3 Pacing</string>
+    <string name="nav_skills_moving_obstacles">4.4 Moving Obstacles</string>
+    <string name="nav_skills_unexpected_obstacles">4.5 Unexpected Obstacles</string>
+    <string name="nav_skills_taking_hits">5.1 Taking Hits</string>
 
     <string name="about_full">
         <![CDATA[
