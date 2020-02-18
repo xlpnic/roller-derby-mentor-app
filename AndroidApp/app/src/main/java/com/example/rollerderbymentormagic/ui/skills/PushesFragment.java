@@ -20,7 +20,7 @@ public class PushesFragment extends Fragment {
         View root = inflater.inflate(R.layout.fragment_pushes, container, false);
         final TextView textView = root.findViewById(R.id.text_pushes);
 
-        String fullSkillString = getString(R.string.nav_skills_pushes);
+        String fullSkillString = getString(R.string.skills_pushes);
 
         Spanned s = Html.fromHtml(fullSkillString);
 

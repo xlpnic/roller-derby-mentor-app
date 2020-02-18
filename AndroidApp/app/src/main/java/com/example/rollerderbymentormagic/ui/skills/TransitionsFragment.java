@@ -20,7 +20,7 @@ public class TransitionsFragment extends Fragment {
         View root = inflater.inflate(R.layout.fragment_transitions, container, false);
         final TextView textView = root.findViewById(R.id.text_transitions);
 
-        String fullSkillString = getString(R.string.nav_skills_transitions);
+        String fullSkillString = getString(R.string.skills_transitions);
 
         Spanned s = Html.fromHtml(fullSkillString);
 

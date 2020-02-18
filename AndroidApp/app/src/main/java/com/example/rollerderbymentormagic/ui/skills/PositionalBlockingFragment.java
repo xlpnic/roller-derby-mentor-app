@@ -20,7 +20,7 @@ public class PositionalBlockingFragment extends Fragment {
         View root = inflater.inflate(R.layout.fragment_positional_blocking, container, false);
         final TextView textView = root.findViewById(R.id.text_positional_blocking);
 
-        String fullSkillString = getString(R.string.nav_skills_positional_blocking);
+        String fullSkillString = getString(R.string.skills_positional_blocking);
 
         Spanned s = Html.fromHtml(fullSkillString);
 

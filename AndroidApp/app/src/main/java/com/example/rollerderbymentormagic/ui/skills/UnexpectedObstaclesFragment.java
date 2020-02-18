@@ -20,7 +20,7 @@ public class UnexpectedObstaclesFragment extends Fragment {
         View root = inflater.inflate(R.layout.fragment_unexpected_obstacles, container, false);
         final TextView textView = root.findViewById(R.id.text_unexpected_obstacles);
 
-        String fullSkillString = getString(R.string.nav_skills_unexpected_obstacles);
+        String fullSkillString = getString(R.string.skills_unexpected_obstacles);
 
         Spanned s = Html.fromHtml(fullSkillString);
 

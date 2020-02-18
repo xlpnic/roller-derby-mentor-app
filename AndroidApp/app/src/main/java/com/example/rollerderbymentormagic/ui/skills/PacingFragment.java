@@ -20,7 +20,7 @@ public class PacingFragment extends Fragment {
         View root = inflater.inflate(R.layout.fragment_pacing, container, false);
         final TextView textView = root.findViewById(R.id.text_pacing);
 
-        String fullSkillString = getString(R.string.nav_skills_pacing);
+        String fullSkillString = getString(R.string.skills_pacing);
 
         Spanned s = Html.fromHtml(fullSkillString);
 

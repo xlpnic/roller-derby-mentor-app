@@ -40,6 +40,19 @@ public class MainActivity extends AppCompatActivity {
                 R.id.nav_skills_other_skills,
                 R.id.nav_skills_knee_taps,
                 R.id.nav_skills_knee_slides,
+                R.id.nav_skills_standing_stepping,
+                R.id.nav_skills_hopping,
+                R.id.nav_skills_focus,
+                R.id.nav_skills_weaving,
+                R.id.nav_skills_transitions,
+                R.id.nav_skills_whips,
+                R.id.nav_skills_pushes,
+                R.id.nav_skills_pacing,
+                R.id.nav_skills_moving_obstacles,
+                R.id.nav_skills_unexpected_obstacles,
+                R.id.nav_skills_taking_hits,
+                R.id.nav_skills_positional_blocking,
+                R.id.nav_skills_checks,
                 R.id.nav_about)
                 .setDrawerLayout(drawer)
                 .build();

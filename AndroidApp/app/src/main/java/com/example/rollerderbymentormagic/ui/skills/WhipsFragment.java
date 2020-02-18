@@ -20,7 +20,7 @@ public class WhipsFragment extends Fragment {
         View root = inflater.inflate(R.layout.fragment_whips, container, false);
         final TextView textView = root.findViewById(R.id.text_whips);
 
-        String fullSkillString = getString(R.string.nav_skills_whips);
+        String fullSkillString = getString(R.string.skills_whips);
 
         Spanned s = Html.fromHtml(fullSkillString);
 

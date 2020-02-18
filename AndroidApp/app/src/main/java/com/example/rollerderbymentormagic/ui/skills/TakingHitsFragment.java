@@ -20,7 +20,7 @@ public class TakingHitsFragment extends Fragment {
         View root = inflater.inflate(R.layout.fragment_taking_hits, container, false);
         final TextView textView = root.findViewById(R.id.text_taking_hits);
 
-        String fullSkillString = getString(R.string.nav_skills_taking_hits);
+        String fullSkillString = getString(R.string.skills_taking_hits);
 
         Spanned s = Html.fromHtml(fullSkillString);
 

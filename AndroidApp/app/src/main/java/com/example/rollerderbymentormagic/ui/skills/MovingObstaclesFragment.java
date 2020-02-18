@@ -20,7 +20,7 @@ public class MovingObstaclesFragment extends Fragment {
         View root = inflater.inflate(R.layout.fragment_moving_obstacles, container, false);
         final TextView textView = root.findViewById(R.id.text_moving_obstacles);
 
-        String fullSkillString = getString(R.string.nav_skills_moving_obstacles);
+        String fullSkillString = getString(R.string.skills_moving_obstacles);
 
         Spanned s = Html.fromHtml(fullSkillString);
 

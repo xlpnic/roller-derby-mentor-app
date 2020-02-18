@@ -52,6 +52,71 @@
         android:label="@string/nav_skills_knee_slides"/>
 
     <fragment
+        android:id="@+id/nav_skills_standing_stepping"
+        android:name="com.example.rollerderbymentormagic.ui.skills.StandingSteppingFragment"
+        android:label="@string/nav_skills_standing_stepping"/>
+
+    <fragment
+        android:id="@+id/nav_skills_hopping"
+        android:name="com.example.rollerderbymentormagic.ui.skills.HoppingFragment"
+        android:label="@string/nav_skills_hopping"/>
+
+    <fragment
+        android:id="@+id/nav_skills_focus"
+        android:name="com.example.rollerderbymentormagic.ui.skills.FocusFragment"
+        android:label="@string/nav_skills_focus"/>
+
+    <fragment
+        android:id="@+id/nav_skills_weaving"
+        android:name="com.example.rollerderbymentormagic.ui.skills.WeavingFragment"
+        android:label="@string/nav_skills_weaving"/>
+
+    <fragment
+        android:id="@+id/nav_skills_transitions"
+        android:name="com.example.rollerderbymentormagic.ui.skills.TransitionsFragment"
+        android:label="@string/nav_skills_transitions"/>
+
+    <fragment
+        android:id="@+id/nav_skills_whips"
+        android:name="com.example.rollerderbymentormagic.ui.skills.WhipsFragment"
+        android:label="@string/nav_skills_whips"/>
+
+    <fragment
+        android:id="@+id/nav_skills_pushes"
+        android:name="com.example.rollerderbymentormagic.ui.skills.PushesFragment"
+        android:label="@string/nav_skills_pushes"/>
+
+    <fragment
+        android:id="@+id/nav_skills_pacing"
+        android:name="com.example.rollerderbymentormagic.ui.skills.PacingFragment"
+        android:label="@string/nav_skills_pacing"/>
+
+    <fragment
+        android:id="@+id/nav_skills_moving_obstacles"
+        android:name="com.example.rollerderbymentormagic.ui.skills.MovingObstaclesFragment"
+        android:label="@string/nav_skills_moving_obstacles"/>
+
+    <fragment
+        android:id="@+id/nav_skills_unexpected_obstacles"
+        android:name="com.example.rollerderbymentormagic.ui.skills.UnexpectedObstaclesFragment"
+        android:label="@string/nav_skills_unexpected_obstacles"/>
+
+    <fragment
+        android:id="@+id/nav_skills_taking_hits"
+        android:name="com.example.rollerderbymentormagic.ui.skills.TakingHitsFragment"
+        android:label="@string/nav_skills_taking_hits"/>
+
+    <fragment
+        android:id="@+id/nav_skills_positional_blocking"
+        android:name="com.example.rollerderbymentormagic.ui.skills.PositionalBlockingFragment"
+        android:label="@string/nav_skills_positional_blocking"/>
+
+    <fragment
+        android:id="@+id/nav_skills_checks"
+        android:name="com.example.rollerderbymentormagic.ui.skills.ChecksFragment"
+        android:label="@string/nav_skills_checks"/>
+
+    <fragment
         android:id="@+id/nav_about"
         android:name="com.example.rollerderbymentormagic.ui.about.AboutFragment"
         android:label="@string/menu_about"
