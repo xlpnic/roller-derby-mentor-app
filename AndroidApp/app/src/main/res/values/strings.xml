@@ -18,6 +18,7 @@
     <string name="menu_skills_interactions_header">4 Pack Skills and Interactions</string>
     <string name="menu_blocking_header">5 Blocking</string>
     <string name="menu_glossary_header">6 Glossary</string>
+    <string name="menu_other_stuff_header">Other Stuff</string>
 
     <string name="nav_skills_skating_posture">1.1 Skating Posture</string>
     <string name="nav_skills_stride">1.2 Stride</string>

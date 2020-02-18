@@ -113,8 +113,12 @@
     </item>
 
 
-    <item android:title="Other Stuff">
+    <item android:title="@string/menu_other_stuff_header">
         <menu>
+            <item
+                android:id="@+id/nav_glossary"
+                android:icon="@drawable/ic_menu_about"
+                android:title="@string/menu_glossary_header" />
             <item
                 android:id="@+id/nav_about"
                 android:icon="@drawable/ic_menu_about"
