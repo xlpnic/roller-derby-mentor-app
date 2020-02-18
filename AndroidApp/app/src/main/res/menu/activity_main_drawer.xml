@@ -51,6 +51,64 @@
 
     <item android:title="@string/menu_balance_agility_header">
         <menu>
+            <item
+                android:id="@+id/nav_skills_standing_stepping"
+                android:icon="@drawable/ic_menu_skills"
+                android:title="@string/nav_skills_standing_stepping" />
+            <item
+                android:id="@+id/nav_skills_hopping"
+                android:icon="@drawable/ic_menu_skills"
+                android:title="@string/nav_skills_hopping" />
+            <item
+                android:id="@+id/nav_skills_focus"
+                android:icon="@drawable/ic_menu_skills"
+                android:title="@string/nav_skills_focus" />
+            <item
+                android:id="@+id/nav_skills_weaving"
+                android:icon="@drawable/ic_menu_skills"
+                android:title="@string/nav_skills_weaving" />
+            <item
+                android:id="@+id/nav_skills_transitions"
+                android:icon="@drawable/ic_menu_skills"
+                android:title="@string/nav_skills_transitions" />
+        </menu>
+    </item>
+
+    <item android:title="@string/menu_skills_interactions_header">
+        <menu>
+            <item
+                android:id="@+id/nav_skills_whips"
+                android:icon="@drawable/ic_menu_skills"
+                android:title="@string/nav_skills_whips" />
+            <item
+                android:id="@+id/nav_skills_pushes"
+                android:icon="@drawable/ic_menu_skills"
+                android:title="@string/nav_skills_pushes" />
+            <item
+                android:id="@+id/nav_skills_pacing"
+                android:icon="@drawable/ic_menu_skills"
+                android:title="@string/nav_skills_pacing" />
+            <item
+                android:id="@+id/nav_skills_moving_obstacles"
+                android:icon="@drawable/ic_menu_skills"
+                android:title="@string/nav_skills_moving_obstacles" />
+            <item
+                android:id="@+id/nav_skills_unexpected_obstacles"
+                android:icon="@drawable/ic_menu_skills"
+                android:title="@string/nav_skills_unexpected_obstacles" />
+        </menu>
+    </item>
+
+    <item android:title="@string/menu_blocking_header">
+        <menu>
+            <item
+                android:id="@+id/nav_skills_taking_hits"
+                android:icon="@drawable/ic_menu_skills"
+                android:title="@string/nav_skills_taking_hits" />
+            <item
+                android:id="@+id/nav_skills_positional_blocking"
+                android:icon="@drawable/ic_menu_skills"
+                android:title="@string/nav_skills_positional_blocking" />
         </menu>
     </item>
 
