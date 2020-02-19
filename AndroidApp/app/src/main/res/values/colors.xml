@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<!--    <color name="colorPrimary">#008577</color>-->
-<!--    <color name="colorPrimaryDark">#00574B</color>-->
-<!--    <color name="colorAccent">#D81B60</color>-->
+    <!--Neon Green:-->
     <color name="neonGreen">#5CDB95</color>
+    <!--Imperial Blue:-->
     <color name="imperialBlue">#05386B</color>
+    <!--Light Beige:-->
     <color name="lightBeige">#EDF5E1</color>
+    <!--Dark Green:-->
+    <color name="darkGreen">#379683</color>
+    <!--Light Green:-->
+    <color name="lightGreen">#8EE4AF</color>
 </resources>
