@@ -5,8 +5,8 @@
     android:id="@+id/linearLayout"
     android:layout_width="match_parent"
     android:layout_height="?attr/actionBarSize"
-    android:background="@drawable/side_nav_bar"
-    android:minHeight="56dp"
+    android:background="@color/neonGreen"
+    android:minHeight="80dp"
     android:orientation="vertical"
     android:padding="5dp"
     android:theme="@style/ThemeOverlay.AppCompat.Dark">
@@ -17,8 +17,8 @@
         android:layout_height="match_parent"
         android:gravity="bottom"
         android:text="@string/menu_skills"
-        android:textColor="#FFFFFF"
-        android:textSize="18sp"
+        android:textColor="@color/imperialBlue"
+        android:textSize="30sp"
         android:textStyle="bold"
         android:typeface="sans"
         app:fontFamily="sans-serif" />

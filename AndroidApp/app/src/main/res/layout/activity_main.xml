@@ -20,8 +20,11 @@ or scrolling and button clicks won't work!-->
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
         android:layout_gravity="start"
+        android:background="@color/lightBeige"
         android:fitsSystemWindows="false"
         app:headerLayout="@layout/nav_header_main"
+        app:itemIconTint="@color/imperialBlue"
+        app:itemTextColor="@color/darkGreen"
         app:menu="@menu/activity_main_drawer" />
 
 </androidx.drawerlayout.widget.DrawerLayout>
