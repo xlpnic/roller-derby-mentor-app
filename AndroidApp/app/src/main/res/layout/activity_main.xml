@@ -25,6 +25,7 @@ or scrolling and button clicks won't work!-->
         app:headerLayout="@layout/nav_header_main"
         app:itemIconTint="@color/imperialBlue"
         app:itemTextColor="@color/darkGreen"
+        android:theme="@style/NavigationViewTheme"
         app:menu="@menu/activity_main_drawer" />
 
 </androidx.drawerlayout.widget.DrawerLayout>
